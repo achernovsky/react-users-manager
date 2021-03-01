@@ -1,0 +1,14 @@
+.add-todo {
+    width: 50%;
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.add-todo-body {
+    margin: 5px;
+    padding: 20px;
+    border: solid black 2px;
+    display: flex;
+    flex-direction: column;
+}

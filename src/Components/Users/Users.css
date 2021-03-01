@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.main {
+    width: 40%;
+    margin: 30px 40px;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.search-row {
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn {
+    background-color: moccasin;
+}
+
+.m-right {
+    margin-right: 5px;
+}

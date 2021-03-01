@@ -1,0 +1,13 @@
+.add-user {
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.add-user-body {
+    margin: 5px;
+    padding: 20px;
+    border: solid black 2px;
+    display: flex;
+    flex-direction: column;
+}

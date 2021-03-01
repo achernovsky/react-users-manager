@@ -1,0 +1,39 @@
+.todos {
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+
+.todos-header {
+    min-width: 400px;
+    min-height: 30px;
+}
+
+.todo {
+    border: 1px solid purple;
+    margin: 10px;
+    padding: 10px;  
+}
+ 
+.btn-add-todo {
+    float: right;
+    position: relative;
+    bottom: 42px;
+    right: 41px;
+}
+
+.todos-list {
+    min-width: 400px;
+    min-height: 100px;
+    max-height: 380px;
+    overflow: scroll;
+    margin: 5px;
+    padding: 5px;
+    border: solid black 2px;
+}
+
+.completed-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
